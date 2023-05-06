@@ -1,8 +1,8 @@
 # Lab 5 - Starter
-People who worked on this lab: Helena Hundhausen and William Heng 
+People who worked on this lab: *Helena Hundhausen* and *William Heng* 
 
-Link to Continuous Integration introduction-to-github repo: https://github.com/hhundhausen/introduction-to-github
+**introduction-to-github** repo: https://github.com/hhundhausen/introduction-to-github
 
-Link to github pages site expose.html page: 
+**expose.html** page: https://github.com/hhundhausen/Lab5_Starter/blob/master/expose.html
 
-Link to github pages site explore.html page: 
+**explore.html** page: https://github.com/hhundhausen/Lab5_Starter/blob/master/explore.html
